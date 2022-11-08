@@ -1,4 +1,3 @@
-# Spotify_app_review_NLP
 # Spotify-Review-Rating-Prediction
 
 This project aims at building an NLP machine that predicts the rating of the Spotify app based on the user reviews. A recurrent neural network will be used. Side information such as the number of upvotes and the time of publication will also be used as features.
